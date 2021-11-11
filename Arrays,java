@@ -100,3 +100,4 @@ public class Array {
 	public void addedNewFunction(){
 	  System.out.println("added new function");}
 }
+// add new line
