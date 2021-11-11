@@ -1,1 +1,4 @@
-test file 
+Class Test{
+void print(){
+System.out.println("Test file...");}
+}
