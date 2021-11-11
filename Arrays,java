@@ -98,4 +98,6 @@ public class Array {
         for (int i = 0; i < count; i++)
             System.out.println(items[i]);
     }
+	public void addedNewFunction(){
+	  System.out.println("added new function");}
 }
